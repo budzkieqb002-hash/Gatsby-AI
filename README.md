@@ -35,11 +35,13 @@ What did I do yesterday?
 - I made a frontend design and developed one page of it
 What will I do today?
 - I will continue on developing the backend of the page I made yesterday but also the other and make it functionable
-What are my blockers?
-End-of-day Checkout (Screenshot of the biggest "win" and/or "error" of the day)
+What are my blockers? Fixing errors of codes and making the pages
+End-of-day Checkout (Screenshot of the biggest "win" and/or "error" of the day)<img width="1897" height="947" alt="image" src="https://github.com/user-attachments/assets/3d94c73e-be44-446d-a5dc-bab04ec502a9" />
+
 4th year
 
 Explanation here
+- I made the page I made yesterday functionable and change characters
 
 Engineering Journal
 Artifact for the 2nd week of Training

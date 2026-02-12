@@ -53,10 +53,12 @@ What will I do today?
 - Develop the other home pag design I made
 What are my blockers?
 - too lazy to add any unneccesary designs and features
-End-of-day Checkout (Screenshot of the biggest "win" and/or "error" of the day)
+End-of-day Checkout (Screenshot of the biggest "win" and/or "error" of the day)<img width="1441" height="942" alt="image" src="https://github.com/user-attachments/assets/a7f4f700-f674-40cc-ace0-2d7dba7323c3" />
+
 4th year
 
 Explanation here
+- I made the Landpage of the AI webpage and added a few features
 
 
 Engineering Journal

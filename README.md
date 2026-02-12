@@ -48,7 +48,9 @@ Artifact for the 2nd week of Training
 Date: 02/12/26
 Morning Stand-Up:
 What did I do yesterday?
+-I made the page functionable and change characters and made the backend of the page
 What will I do today?
+- Develop the other home pag design I made
 What are my blockers?
 End-of-day Checkout (Screenshot of the biggest "win" and/or "error" of the day)
 4th year

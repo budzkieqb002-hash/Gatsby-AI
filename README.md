@@ -52,6 +52,7 @@ What did I do yesterday?
 What will I do today?
 - Develop the other home pag design I made
 What are my blockers?
+- too lazy to add any unneccesary designs and features
 End-of-day Checkout (Screenshot of the biggest "win" and/or "error" of the day)
 4th year
 

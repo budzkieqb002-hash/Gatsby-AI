@@ -66,9 +66,14 @@ Artifact for the 2nd week of Training
 Date: 02/13/26
 Morning Stand-Up:
 What did I do yesterday?
+- I made the Landpage of the AI webpage and added a few features
 What will I do today?
+- Present the AI chatbot/GatsbyChatAI I made this week
 What are my blockers?
-End-of-day Checkout (Screenshot of the biggest "win" and/or "error" of the day)
+- Fixing the errors and developing the design a made
+End-of-day Checkout (Screenshot of the biggest "win" and/or "error" of the day)<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/e9c2ea57-69d8-4280-bd61-b26ae0da5b70" />
+
 4th year
 
 Explanation here
+- Presenting the AI chatbot I made this week

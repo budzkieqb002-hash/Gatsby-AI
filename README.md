@@ -71,7 +71,8 @@ What will I do today?
 - Present the AI chatbot/GatsbyChatAI I made this week
 What are my blockers?
 - Fixing the errors and developing the design a made
-End-of-day Checkout (Screenshot of the biggest "win" and/or "error" of the day)<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/e9c2ea57-69d8-4280-bd61-b26ae0da5b70" />
+End-of-day Checkout (Screenshot of the biggest "win" and/or "error" of the day)<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/76aee968-043c-45da-b58b-74420554fd5d" />
+
 
 4th year
 
